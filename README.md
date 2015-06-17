@@ -18,4 +18,4 @@ também visualizar as actividades efectuadas pelos seus amigos.
 
 -->Carregar correctamente dados de backup.
 
-Classificação: 13/20
+###Classificação: 13/20
