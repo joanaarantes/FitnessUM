@@ -13,7 +13,9 @@ também visualizar as actividades efectuadas pelos seus amigos.
 
 ##Trabalho a melhorar:
 -->Melhorar a apresentação dos dados ao utilizador.
+
 -->Corrigir problemas de pedidos de amizade.
+
 -->Carregar correctamente dados de backup.
 
 Classificação: 13/20
